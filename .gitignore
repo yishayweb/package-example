@@ -1,0 +1,10 @@
+node_modules
+lib
+dist
+build
+.DS_Store
+storybook-static
+.npmrc
+.pnpm-store
+.pnpm-debug.log
+.idea
